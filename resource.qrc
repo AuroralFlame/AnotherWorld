@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/gamestarted/loading">
+        <file>res/gamestart/test.png</file>
+        <file>res/gamestart/ds.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/gamescence/player/run/run_0.png</file>
+        <file>res/gamescence/player/run/run_1.png</file>
+        <file>res/gamescence/player/run/run_2.png</file>
+        <file>res/gamescence/player/run/run_3.png</file>
+    </qresource>
+</RCC>
